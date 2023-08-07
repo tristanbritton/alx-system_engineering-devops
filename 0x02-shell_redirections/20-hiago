@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$input" | tr -d 'cC'
+echo -n "Enter input: "; read input; echo "Result: ${input//['cC']}"
