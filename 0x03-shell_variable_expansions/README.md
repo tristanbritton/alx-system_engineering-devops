@@ -1,2 +1,1 @@
-#!/bin/bash
-Shell Variable Expansions
+alias project
